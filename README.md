@@ -17,4 +17,4 @@ Step 2 - run live preview / live server
 
 ## Demo
 
-![Project Screenshot](Graphics/Screenshot 2024-10-31 061450.png)
+![Project Screenshot](Graphics/ss.png)
